@@ -29,7 +29,4 @@
   </a>
 </p>
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/GabyXavierr/GabyXavierr/output/snake.svg" alt="Snake animation" />
